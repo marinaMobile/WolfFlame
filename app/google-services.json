@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192441795497",
+    "project_id": "wolf-flame",
+    "storage_bucket": "wolf-flame.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192441795497:android:c4c2728708ba28627b3ab8",
+        "android_client_info": {
+          "package_name": "com.xiaomi.hm.healt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192441795497-ef9p8miol7vbkhf86sqi7rnd547gonkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGLRp3VDA1iTEb4X2u62x4SajSqbQSFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192441795497-ef9p8miol7vbkhf86sqi7rnd547gonkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
